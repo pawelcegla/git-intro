@@ -1,5 +1,4 @@
 # git-intro
-=========
 
 ## first section
 
