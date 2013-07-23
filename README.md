@@ -1,4 +1,4 @@
-# git-intro
+# Git Intro
 ===========
 
 ## first section
